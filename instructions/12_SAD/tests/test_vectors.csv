@@ -6,7 +6,7 @@ case,accumulator,rs1,rs2,expected,description
 5,77,42,42,77,zero absolute difference
 6,0,2147483647,-2147483648,4294967295,maximum signed difference
 7,0,-2147483648,2147483647,4294967295,reversed maximum difference
-8,4294967295,0,1,4294967294,accumulator wraparound
+8,4294967295,0,1,0,accumulator wraparound
 9,4294967294,-2147483648,0,2147483646,minimum signed value
 10,0,-1,-2147483648,2147483647,minimum signed boundary
 11,0,2147483647,0,2147483647,maximum signed boundary
