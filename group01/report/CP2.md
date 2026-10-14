@@ -13,7 +13,7 @@ TODO
 > 填寫提示：組合語言設計與指令統計。
 >
 > 必附：
-> - `rv32im/` 程式碼：[`instructions/12_SAD/rv32im/`](../instructions/12_SAD/rv32im/)
+> - `rv32im/` 程式碼：[`src/rv32im/`](../src/rv32im/)
 > - 靜態與動態指令數表、分支數
 >
 > 限制：只允許 RV32IM 指令。

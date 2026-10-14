@@ -18,7 +18,7 @@ TODO
 > - 機器碼與欄位說明
 > - 指令數比較表
 >
-> 對應文件：[`instructions/12_SAD/spec/`](../instructions/12_SAD/spec/)
+> 對應文件：[`instructions/SAD/`](../instructions/SAD/)
 
 ### 2.1 語意規格
 
