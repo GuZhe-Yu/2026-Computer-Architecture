@@ -82,7 +82,7 @@ machine code = 0x0073028B
 
 | 實作 | 靜態指令數 | 動態指令數 |
 |---|---:|---:|
-| RV32IM baseline | 7 | 6 或 7 |
+| RV32IM baseline | 6 | 5 或 6 |
 | SAD 自訂指令 | 1 | 1 |
 
 baseline 使用 `slt`、`sub`、`beq`、`add` 完成比較、絕對差與累加。
