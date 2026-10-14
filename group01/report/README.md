@@ -1,6 +1,6 @@
 # report/
 
-本目錄為 SAD 專題各 Checkpoint 的書面報告。格式依 [HOMEWORK.md 第五節](../HOMEWORK.md)。
+本目錄為 SAD 專題各 Checkpoint 的書面報告。格式依 [HOMEWORK.md 第五節](../../HOMEWORK.md)。
 
 ## 小組資訊
 
@@ -15,9 +15,9 @@
 
 | Checkpoint | 週次 | 報告 | 對應實作 | 狀態 |
 |---|---|---|---|---|
-| CP1 C baseline | Week 6 | [CP1.md](CP1.md) | [`instructions/12_SAD/c_baseline/`](../instructions/12_SAD/c_baseline/) | 待填寫 |
-| CP2 RV32IM 實作 | Week 6–7 | [CP2.md](CP2.md) | [`instructions/12_SAD/rv32im/`](../instructions/12_SAD/rv32im/) | 待填寫 |
-| CP3 指令規格與編碼 | Week 8 | [CP3.md](CP3.md) | [`instructions/12_SAD/spec/`](../instructions/12_SAD/spec/) | 待填寫 |
+| CP1 C baseline | Week 6 | [CP1.md](CP1.md) | [`src/c_baseline/`](../src/c_baseline/) | 待填寫 |
+| CP2 RV32IM 實作 | Week 6–7 | [CP2.md](CP2.md) | [`src/rv32im/`](../src/rv32im/) | 待填寫 |
+| CP3 指令規格與編碼 | Week 8 | [CP3.md](CP3.md) | [`instructions/SAD/`](../instructions/SAD/) | 待填寫 |
 
 圖檔放在 [`figures/`](figures/)。
 

@@ -1,12 +1,15 @@
-# SAD 參考資料
+# references/
 
-本資料夾記錄 SAD（sum of absolute differences）與 RISC-V 指令格式的參考來源。
+本指令的參考資料,例如 RISC-V ISA 規格書的章節、論文、課本頁碼、公開的演算法說明。
+
+## 規定
+
+- 每筆參考資料需註明來源(書名或網址、章節或頁碼、存取日期)
+- 不要放入他組的作業內容或他人未授權的完整文件
+- 大型檔案不放入倉庫,改為連結
 
 ## 參考清單
 
-| 編號 | 名稱 | 來源 | 用途 | 存取日期 |
-|---|---|---|---|---|
-| R1 | RISC-V Unprivileged ISA | [RISC-V Instruction Set Manual, Volume I, RV32I](https://docs.riscv.org/reference/isa/unpriv/rv32.html)，Custom encodings 與 R-type instruction format | 確認 RV32I 暫存器、R-type 欄位與 custom-0 opcode 的使用方式 | 2026-10-13 |
-| R2 | Sum of absolute differences | [Wikipedia: Sum of absolute differences](https://en.wikipedia.org/wiki/Sum_of_absolute_differences)，Definition | 確認逐元素絕對差再累加的演算法定義 | 2026-10-13 |
-
-僅記錄連結與使用目的，不複製參考來源的完整內容。
+| 編號 | 名稱 | 來源 | 用途 |
+|---|---|---|---|
+| R1 | | | |

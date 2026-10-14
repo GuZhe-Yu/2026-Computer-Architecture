@@ -13,8 +13,8 @@ TODO
 > 填寫提示：函式設計與測資設計。
 >
 > 必附：
-> - `c_baseline/` 原始碼：[`sad.c`](../instructions/12_SAD/c_baseline/sad.c)、[`sad.h`](../instructions/12_SAD/c_baseline/sad.h)、[`test_sad.c`](../instructions/12_SAD/c_baseline/test_sad.c)
-> - 至少 10 組測資與預期輸出（至少 1 組為邊界值）：[`test_vectors.csv`](../instructions/12_SAD/tests/test_vectors.csv)
+> - `c_baseline/` 原始碼：[`sad.c`](../src/c_baseline/sad.c)、[`sad.h`](../src/c_baseline/sad.h)、[`test_sad.c`](../src/c_baseline/test_sad.c)
+> - 至少 10 組測資與預期輸出（至少 1 組為邊界值）：[`test_vectors.csv`](../src/c_baseline/test_vectors.csv)
 
 ### 2.1 函式設計
 
